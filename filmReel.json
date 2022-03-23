@@ -1,0 +1,185 @@
+{
+  "the_proposal": {
+    "name": "The Proposal",
+    "country": "USA",
+    "year": 2009,
+    "studio": "Walt Disney Studios Motion Pictures",
+    "written_by": "Peter Chiarelli",
+    "director": "Anne Fletcher",
+    "producer": ["David Hoberman", "Todd Lieberman"],
+    "characters": [
+      {
+        "name": "Margaret Tate",
+        "actor": ["Sandra", "Bullock"]
+      },
+      {
+        "name": "Andrew Paxton",
+        "actor": ["Ryan", "Reynolds"]
+      },
+      {
+        "name": "Grace Paxton",
+        "actor": ["Mary", "Steenburgen"]
+      },
+      {
+        "name": "Joe Paxton",
+        "actor": ["Craig", "Nelson"]
+      },
+      {
+        "name": "Grandma Annie",
+        "actor": ["Betty", "White"]
+      },
+      {
+        "name": "Gertrude",
+        "actor": ["Malin", "Akerman"]
+      },
+      {
+        "name": "Bob Spaulding",
+        "actor": ["Aasif", "Mandvi"]
+      }
+    ]
+  },
+
+  "the_dark_knight_rises": {
+    "name": "The Dark Knight Rises",
+    "country": ["USA", "Great Britain"],
+    "year": 2012,
+    "studio": ["DC Comics", "Warner Bros"],
+    "written_by": ["Jonathan Nolan", "Christopher Nolan"],
+    "director": "Christopher Nolan",
+    "producer": ["Emma Thomas", "Christopher Nolan", "Charles Roven"],
+    "characters": [
+      {
+        "name": ["Bruce Wayne", "Batman"],
+        "actor": ["Christian", "Bale"]
+      },
+      {
+        "name": "Alfred Pennyworth",
+        "actor": ["Michael", "Caine"]
+      },
+      {
+        "name": "James Gordon",
+        "actor": ["Gary", "Oldman"]
+      },
+      {
+        "name": ["Selina Kyle", "Catwoman"],
+        "actor": ["Anne", "Hathaway"]
+      },
+      {
+        "name": "Bane",
+        "actor": ["Tom", "Hardy"]
+      },
+      {
+        "name": ["Miranda Tate", "Talia al Ghul"],
+        "actor": ["Marion", "Cotillard"]
+      },
+      {
+        "name": "Lucius Fox",
+        "actor": ["Morgan", "Freeman"]
+      }
+    ]
+  },
+
+  "ghost": {
+    "name": "Ghost",
+    "country": "Russia",
+    "year": 2015,
+    "studio": ["STV", "Nashe Kino", "Molniya Pictures"],
+    "written_by": ["Oleg Malovichko", "Andrei Zolotarev"],
+    "director": "Aleksandr Voytinskiy",
+    "producer": ["Sergey Selyanov", "Aleksandr Voytinskiy"],
+    "characters": [
+      {
+        "name": "Yury Gordeyev",
+        "actor": ["Fedor", "Bondarchuk"]
+      },
+      {
+        "name": "Vanya",
+        "actor": ["Semyon", "Treskunov"]
+      },
+      {
+        "name": "Gena",
+        "actor": ["Yan", "Tsapnik"]
+      },
+      {
+        "name": "Glinka",
+        "actor": ["Kseniya", "Lavrova"]
+      },
+      {
+        "name": "Lena Gordeyeva",
+        "actor": ["Anna", "Antonova"]
+      }
+    ]
+  },
+
+  "my_blind_date_with_life": {
+    "name": "My Blind Date With Life",
+    "country": "Germany",
+    "year": 2017,
+    "studio": "None",
+    "written_by": ["Oliver Ziegenbalg", "Ruth Toma"],
+    "director": "Marc Rothemund",
+    "producer": ["Yoko Higuchi-Zitzmann", "Tanja Ziegler", "Simon J. Buchner"],
+    "characters": [
+      {
+        "name": "Saliya Kahawatte",
+        "actor": ["Kostja", "Ullmann"]
+      },
+      {
+        "name": "Laura",
+        "actor": ["Anna", "Mühe"]
+      },
+      {
+        "name": "Max",
+        "actor": ["Jacob", "Matschenz"]
+      },
+      {
+        "name": "Fried",
+        "actor": ["Alexander", "Held"]
+      },
+      {
+        "name": "Sheela",
+        "actor": ["Nilam", "Farooq"]
+      },
+      {
+        "name": "Lehrer Dongen",
+        "actor": ["Ludger", "Pistor"]
+      },
+      {
+        "name": "Augenarzt",
+        "actor": ["Uwe", "Preuss"]
+      }
+    ]
+  },
+
+  "angels_&_demons": {
+    "name": "Angels & Demons",
+    "country": "USA",
+    "year": 2009,
+    "studio": "Sony Pictures Releasing",
+    "written_by": ["David Koepp", "Akiva Goldsman"],
+    "director": "Ron Howard",
+    "producer": ["Brian Grazer","Ron Howard","John Calley"],
+    "characters": [
+      {
+        "name": "Robert Langdon",
+        "actor": ["Tom", "Hanks"]
+      },
+      {
+        "name": "Dr. Vittoria Vetra",
+        "actor": ["Ayelet", "Zurer"]
+      },
+      {
+        "name": "Father Patrick",
+        "actor": ["Ewan", "McGregor"]
+      },
+      {
+        "name": "Inspector General",
+        "actor": ["Pierfrancesco", "Favino"]
+      },
+      {
+        "name": "Cardinal Strauss",
+        "actor": ["Armin", "Mueller-Stahl"]
+      }
+    ]
+  }
+}
